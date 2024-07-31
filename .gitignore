@@ -1,0 +1,14 @@
+﻿bin/
+obj/
+*.dll
+*.exe
+*.exe.config
+*.pdb
+*.log
+*.swp
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+.vs/
